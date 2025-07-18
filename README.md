@@ -1,2 +1,2 @@
 # Life-Lab
-lorem ipsum
+Game of Life application in C#
