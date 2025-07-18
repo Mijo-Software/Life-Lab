@@ -1,2 +1,2 @@
 # Life-Lab
-Game of Life application in C#
+Game of Life simulation in C#
